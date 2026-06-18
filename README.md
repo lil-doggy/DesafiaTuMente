@@ -1,17 +1,48 @@
 # Desafía Tu Mente
 
-Un juego de adivinanzas desarrollado en Java donde el jugador debe resolver diferentes acertijos clasificados por niveles de dificultad.
+Curso introductorio de Java + POO basado en un juego interactivo de adivinanzas.
+
+Este proyecto forma parte de un curso diseñado para estudiantes de secundaria (12–17 años) sin experiencia previa en programación.
+
+El objetivo es aprender Java de forma visual, práctica e interactiva usando únicamente herramientas 100% online.
 
 ---
 
-## Funcionalidades
+# Resumen del curso
 
-- Adivinanzas por niveles: fácil, intermedio y difícil
-- Sistema de respuestas automáticas
-- Registro de jugador y progreso
-- Estructura modular (Juego, Adivinanza, Jugador, Nivel)
+Este curso introduce los fundamentos de Java con enfoque en programación orientada a objetos (POO).
+
+Se trabajan los siguientes temas:
+
+- Introducción a Java y programación
+- Variables y tipos de datos
+- Operadores y expresiones
+- Estructuras de control (if, for, while)
+- Métodos y parámetros
+- Entrada y salida por consola
+- Clases y objetos
+- Constructores
+- Encapsulación (getters y setters)
+- Arrays y ArrayList
+- Proyecto final: juego de adivinanzas en POO
+
+El aprendizaje es progresivo y basado en ejemplos prácticos en consola.
 
 ---
+
+# Proyecto final
+
+Juego de adivinanzas con:
+
+- Sistema de niveles (Fácil, Intermedio, Difícil)
+- Sistema de vidas
+- Sistema de puntaje
+- Sistema de pistas
+- Interacción por consola
+- Programación orientada a objetos (POO)
+
+---
+
 
 ## Estructura del proyecto
 src/
