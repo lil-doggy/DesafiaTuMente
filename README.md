@@ -141,10 +141,10 @@ Juego de adivinanzas en Java con:
 
 | Lección | Actividad | Enlace |
 |--------|----------|--------|
-| 1 | Introducción | https://replit.com/languages/java10 |
-| 2 | Variables | https://jdoodle.com |
+| 1 | Introducción | https://onlinegdb.com/D5lk1ntLB |
+| 2 | Variables | https://onlinegdb.com/D5lk1ntLB |
 | 3 | Condiciones | https://onlinegdb.com |
-| 4 | Métodos | https://replit.com |
+| 4 | Métodos | https://onlinegdb.com/D5lk1ntLB |
 | 5 | POO | https://jdoodle.com |
 | 6 | Proyecto final |https://onlinegdb.com/D5lk1ntLB |
 
