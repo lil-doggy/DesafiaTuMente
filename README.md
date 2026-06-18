@@ -118,7 +118,7 @@ Jugador responde
 - **Proyecto final online**:  
 
 ```
-https://onlinegdb.com/tUpLk7DR7
+https://onlinegdb.com/D5lk1ntLB
 ```
 ---
 
@@ -146,7 +146,7 @@ Juego de adivinanzas en Java con:
 | 3 | Condiciones | https://onlinegdb.com |
 | 4 | Métodos | https://replit.com |
 | 5 | POO | https://jdoodle.com |
-| 6 | Proyecto final | https://onlinegdb.com/tUpLk7DR7 |
+| 6 | Proyecto final |https://onlinegdb.com/D5lk1ntLB |
 
 ---
 
