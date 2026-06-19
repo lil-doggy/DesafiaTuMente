@@ -122,6 +122,14 @@ OnlineGDB: https://onlinegdb.com/D5lk1ntLB
 GitHub: https://github.com/lil-doggy/java-fundamentals-course-VentixCorp.git
 ```
 ---
+### Lección 7: Buenas prácticas (2:10 minutos)
+
+- **Descripción**: Buenas prácticas en POO.
+- **Enlace**: https://youtu.be/bkEy3tjT9os
+- **Conclusiones clave**:
+  - Código limpio y ordenado
+  - Uso correcto de clases y objetos
+- **Práctica online**: https://onlinegdb.com/IuxQR55Yw
 
 ## 🎮 Proyecto desarrollado
 
