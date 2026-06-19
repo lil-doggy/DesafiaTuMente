@@ -82,7 +82,7 @@ https://github.com/lil-doggy/java-fundamentals-course-VentixCorp
 ### Lección 6: Proyecto final – Juego de adivinanzas (15 minutos)
 
 - **Descripción**: Construcción del juego completo usando POO.
-- **Enlace**: https://youtu.be/UArswms7ZMM
+- **Enlace**: https://youtu.be/PS4cv5ppqgE
 - **Conclusiones clave**:
   - Encapsulación
   - ArrayList
@@ -158,7 +158,8 @@ Juego de adivinanzas en Java con:
 **Período**: 202610  
 
 **Nombre del equipo**: VentixCorp  
-**Líder del equipo**: Geraldine Suarez 
+**Líder del equipo**: Geraldine Suarez
+
 **Integrantes del equipo**: 
 
 | Apellidos y Nombres              | Código de Alumno |
