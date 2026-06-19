@@ -2,7 +2,7 @@
 
 ## 🧠 Resumen del Curso
 
-Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo programación orientada a objetos (POO), a través del desarrollo de un juego interactivo de adivinanzas.
+Este curso introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo programación orientada a objetos (POO), a través del desarrollo de un juego interactivo de adivinanzas.
 
 El aprendizaje es práctico, progresivo y completamente en línea, sin necesidad de instalaciones.
 
@@ -118,7 +118,8 @@ Jugador responde
 - **Proyecto final online**:  
 
 ```
-https://onlinegdb.com/D5lk1ntLB
+OnlineGDB: https://onlinegdb.com/D5lk1ntLB
+GitHub: https://github.com/lil-doggy/java-fundamentals-course-VentixCorp.git
 ```
 ---
 
