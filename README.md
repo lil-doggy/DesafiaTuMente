@@ -82,7 +82,7 @@ https://github.com/lil-doggy/java-fundamentals-course-VentixCorp
 ### Lección 6: Proyecto final – Juego de adivinanzas (15 minutos)
 
 - **Descripción**: Construcción del juego completo usando POO.
-- **Enlace**: https://www.youtube.com/watch?v=example-link6
+- **Enlace**: https://youtu.be/UArswms7ZMM
 - **Conclusiones clave**:
   - Encapsulación
   - ArrayList
